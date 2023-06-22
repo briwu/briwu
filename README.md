@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Brian Wu
-- 👀 I’m interested in:
-      Making cool projects
-      All things computer science!
+- 👀 I’m interested in making cool projects and all things computer science!
 - 📫 briawu@umich.edu
 
 <!---
